@@ -3,7 +3,7 @@
     Linux, Data Science, Bioinformatics and FOSS
 - 🌱 I’m currently learning
     - Linux Command Line Magics
-    - Python with all the prettynumpy, scipy and pandas and stuffs
+    - Python with all the beautiful data tools numpy, scipy and pandas and more
     - Emacs (gotta love oldschool)
     - Lisp (for Emacs)
 - 💞️ I’m looking to collaborate on ...
